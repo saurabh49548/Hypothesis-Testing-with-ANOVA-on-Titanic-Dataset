@@ -4,7 +4,7 @@
 
 This repository contains a statistical case study using One-Way ANOVA (Analysis of Variance) on the Titanic dataset. The objective of this project is to examine whether the average age of passengers differs significantly across passenger classes (Pclass 1, 2, and 3).
 
-The project follows a structured statistical workflow that includes data preparation, exploratory analysis, hypothesis testing, post-hoc comparisons, assumption checking, and effect size measurement. In addition to identifying whether a significant difference exists, the analysis also investigates which groups differ and how strong the effect is.
+The project follows a structured statistical workflow that includes data preparation, exploratory analysis, hypothesis testing, post-hoc comparisons and assumption checking. In addition to identifying whether a significant difference exists, the analysis also investigates which groups differ and how strong the effect is.
 
 This project is intended as a practical application of inferential statistics using Python.
 
