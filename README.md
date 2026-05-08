@@ -28,7 +28,6 @@ The analysis aims to:
 - Test whether observed differences are statistically significant.
 - Check whether ANOVA assumptions hold.
 - Identify which specific class pairs differ using post-hoc tests.
-- Measure the magnitude of the relationship using effect size.
 - Support findings using statistical visualization.
 
 ---
